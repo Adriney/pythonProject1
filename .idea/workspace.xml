@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ce57e99-7050-4a83-a14f-632ef5870690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex009b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex011b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +51,7 @@
     "Python.ex009b.executor": "Run",
     "Python.ex010.executor": "Run",
     "Python.ex011.executor": "Run",
+    "Python.ex011b.executor": "Run",
     "Python.ex012.executor": "Run",
     "Python.ex013.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
