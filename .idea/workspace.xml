@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ce57e99-7050-4a83-a14f-632ef5870690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex011b.py" afterDir="false" />
+    <list default="true" id="1ce57e99-7050-4a83-a14f-632ef5870690" name="Changes" comment="att">
+      <change afterPath="$PROJECT_DIR$/ex006b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex012b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex013b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex013c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex015b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,13 @@
     "Python.ex011.executor": "Run",
     "Python.ex011b.executor": "Run",
     "Python.ex012.executor": "Run",
+    "Python.ex012b.executor": "Run",
     "Python.ex013.executor": "Run",
+    "Python.ex013b.executor": "Run",
+    "Python.ex013c.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex015b.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -77,6 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711387890123</updated>
     </task>
+    <task id="LOCAL-00001" summary="att">
+      <option name="closed" value="true" />
+      <created>1712239102521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239102521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="att" />
+    <option name="LAST_COMMIT_MESSAGE" value="att" />
   </component>
 </project>
