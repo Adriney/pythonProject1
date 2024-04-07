@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ce57e99-7050-4a83-a14f-632ef5870690" name="Changes" comment="att">
-      <change afterPath="$PROJECT_DIR$/ex006b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex015b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.aoula06b.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -68,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/PythonExercicios/pythonProject1",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/curso",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
