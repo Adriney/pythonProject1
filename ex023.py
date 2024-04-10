@@ -6,6 +6,7 @@
 #centena:8
 #milhar:1
 numero = input("Digite um número:")
+print("Analisando o número {}".format(numero))
 print("unidade:",numero[3])
 print("dezena:",numero[2])
 print("centena:",numero[1])
