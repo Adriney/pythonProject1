@@ -4,10 +4,9 @@
 #Ex: Ana Maria de Souza
 #Primeiro=Ana
 #Último= Souza
-nome = input("Qual o seu nome:")
-print(nome)
+nome = input("Qual o seu nome:").upper()
+print("Muito prazer em te conhecer {}!!!".format(nome))
 nome1 = nome.split()[0]
-
-print("Primeira parte:", nome1)
+print("Primeiro nome:", nome1)
 nome2 = nome.split()[-1]
-print("Última parte:", nome2)
+print("Último nome:", nome2)

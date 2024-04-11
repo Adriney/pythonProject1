@@ -2,7 +2,7 @@
 #>Quantas vezes aparece a letra "A".
 #>Em que posição ela aparece a primeira vez.
 #>Em que posição ela aparece a última vez.
-frase = input("Digite sua frase:")
+frase = input("Digite sua frase:").strip()
 frase=frase.upper()
 print(frase)
 print("Possui {} letras 'A' na frase!".format(frase.count("A")))

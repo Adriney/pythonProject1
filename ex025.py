@@ -2,7 +2,9 @@
 # e diga se ela tem "SILVA" no nome.
 nome =input("Qual o seu nome:")
 nome = nome.upper()
-print("SILVA" in nome)
+#.upper() é usado para converter uma string em maiúsculas
+#.lower() é usado para converter uma string em minúsculas
+print("SILVA" in nome) # in é um operador do python e não um metodo
 if "SILVA" in nome:
     print("Possui Silva no nome")
 else:
