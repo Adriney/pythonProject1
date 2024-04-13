@@ -1,4 +1,4 @@
-#criar um algiritmo que leia um numero e mostre o seu dobro,
+#criar um algiritmo que leia um número e mostre o seu dobro,
 # triplo e a raiz quadrada.
 
 n = int(input('Digite um número:'))
