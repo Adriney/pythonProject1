@@ -8,11 +8,11 @@
 from  datetime import date
 nasc= int(input("Digite o ano de su nascimento:"))
 id =  date.today().year - nasc
-id2 = id-18
-id3 = 18- id
+id2 = id - 18
+id3 = 18 - id
 if id >18:
     print("Você possui {} anos e \033[33mja passou {} ano(s) do prazo\033[m de se alistar! ".format(id,id2))
-elif id<18:
+elif id < 18:
     print("Você possui {} anos e \033[34mfalta {} ano(s)\033[m para poder se alistar! ".format(id, id3))
 elif id == 18:
     print("Você possui {} anos e, \033[34mEstá no tempo\033[m  de se alistar! ".format(id))
