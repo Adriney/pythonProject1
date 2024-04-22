@@ -6,7 +6,7 @@
 # Seu programa também deverá mostrar o tempo
 # que falta ou que passou do prazo.
 from  datetime import date
-nasc= int(input("Digite o ano de su nascimento:"))
+nasc= int(input("Digite o ano de seu nascimento:"))
 id =  date.today().year - nasc
 id2 = id - 18
 id3 = 18 - id
