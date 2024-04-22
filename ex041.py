@@ -4,7 +4,7 @@
 # - Até 9 anos : MIRIN
 # - Até 14 anos : INFANTIL
 # - Até 19 anos: JUNIOR
-# - Até 20 anos : SÊNIOR
+# - Até 25 anos : SÊNIOR
 # - Acima: MASTER
 from datetime import  date
 ano = int(input("Qual o ano de nascimento:"))
@@ -15,9 +15,9 @@ elif 10 <= idade <= 14:
     print("Atleta com {} anos, categoria INFANTIL!".format(idade))
 elif 15 <= idade <= 19:
     print("Atleta com {} anos, categoria JUNIOR!".format(idade))
-elif idade == 20:
-    print("Atleta com {} anos, categoria SENIOR!".format(idade))
-elif idade >= 21:
+elif 20<= idade <=25:
+    print("Atleta com {} anos, categoria SÊNIOR!".format(idade))
+elif idade >= 26:
     print("Atleta com {} anos, categoria MASTER!".format(idade))
 else:
     print("Não corresponde a uma categoria valida")
