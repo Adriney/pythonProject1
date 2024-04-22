@@ -5,7 +5,7 @@
 # - À vista no cartão: 5% de desconto
 # - em até 2x no cartão: preço normal
 # - 3x ou mais no cartão: 20% de juros
-valor = int(input("Qual o valor do produto R$:"))
+valor = float(input("Qual o valor do produto R$:"))
 print("condição de pagamento:\033[36m\n (1) À vista, dinheiro/cheque,\n (2) À vista no cartão,"
      "\n(3) em até 2x no cartão,\n (4) 3x ou mais no cartão:\033[m ")
 condição = int(input("Qual a forma de pagamento :"))
