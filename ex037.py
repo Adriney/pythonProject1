@@ -11,13 +11,13 @@ conv =int(input("\n\033[34mQual será a base de conversão\033[m:"
                 "\n (3) para hexadecimal  \n\033[31mSua escolha é\033[m :"))
 if conv == 1:
     binario = bin (num)
-    print("Você digitou o número \033[31m{}\033[m e seu número  binário é :\033[31m{}\033[m".format(num,binario))
+    print("Você digitou o número \033[31m{}\033[m e seu número  binário é :\033[31m{}\033[m".format(num,binario[2:]))
 elif conv == 2:
     octal = oct(num)
-    print("Você digitou o número {} e seu número octal é :\033[31m{}\033[m".format(num,octal))
+    print("Você digitou o número {} e seu número octal é :\033[31m{}\033[m".format(num,octal[2:]))
 elif conv == 3:
     hexadecimal = hex(num)
-    print("Você digitou o número {} e seu número hexadecimal é :\033[31m{}\033[m".format(num,hexadecimal))
+    print("Você digitou o número {} e seu número hexadecimal é :\033[31m{}\033[m".format(num,hexadecimal[2:]))
 else:
     print("\033[34mNão foi possivel efetuar a conversão!\033[m")
 
