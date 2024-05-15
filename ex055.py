@@ -9,4 +9,6 @@ p5 = float(input("Qual o peso da 5° pessoa:"))
 max_peso = max(p1,p2,p3,p4,p5)
 min_peso = min(p1,p2,p3,p4,p5)
 
-print("O \033[31m maior \033[m peso lido foi: {}  \nO \033[31m menor \033[m peso lido foi: {} ".format(max_peso,min_peso))
+print("O \033[31m maior \033[m peso lido foi: {}Kg.  "
+      "\nO \033[31m menor \033[m peso lido foi: {}Kg."
+      " ".format(max_peso,min_peso))
