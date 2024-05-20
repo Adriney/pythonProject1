@@ -15,7 +15,7 @@ palpites = 0
 
 while True:
     palpite = int(input("Que número você escolhe? :"))
-    #print(f' computador :{computador}.')
+        #print(f' computador :{computador}')
     palpites += 1
     if palpite == computador:
         print("Você conseguiu acertar!")
